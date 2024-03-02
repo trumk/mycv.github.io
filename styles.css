@@ -8040,6 +8040,10 @@ textarea.form-control-lg {
   color: #00bfff !important;
 }
 
+.text-primary:hover {
+  color: #27396e !important; /* Màu mới khi hover */
+}
+
 .text-secondary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
